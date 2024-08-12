@@ -1,0 +1,15 @@
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\bin\Debug\net8.0\Sintaxe e Tipos de Dados em C#.exe
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\bin\Debug\net8.0\Sintaxe e Tipos de Dados em C#.deps.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\bin\Debug\net8.0\Sintaxe e Tipos de Dados em C#.runtimeconfig.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\bin\Debug\net8.0\Sintaxe e Tipos de Dados em C#.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\bin\Debug\net8.0\Sintaxe e Tipos de Dados em C#.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\obj\Debug\net8.0\Sintaxe e Tipos de Dados em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\obj\Debug\net8.0\Sintaxe e Tipos de Dados em C#.AssemblyInfoInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\obj\Debug\net8.0\Sintaxe e Tipos de Dados em C#.AssemblyInfo.cs
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\obj\Debug\net8.0\Sintaxe e Tipos de Dados em C#.csproj.CoreCompileInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\obj\Debug\net8.0\Sintaxe e Tipos de Dados em C#.sourcelink.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\obj\Debug\net8.0\Sintaxe e Tipos de Dados em C#.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\obj\Debug\net8.0\refint\Sintaxe e Tipos de Dados em C#.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\obj\Debug\net8.0\Sintaxe e Tipos de Dados em C#.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\obj\Debug\net8.0\Sintaxe e Tipos de Dados em C#.genruntimeconfig.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Sintaxe e Tipos de Dados em C#\obj\Debug\net8.0\ref\Sintaxe e Tipos de Dados em C#.dll
