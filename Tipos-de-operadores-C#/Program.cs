@@ -5,4 +5,4 @@ int b = 4;
 
 int c =a + b;
 
-console.WriteLine(c);
+Console.WriteLine(c);

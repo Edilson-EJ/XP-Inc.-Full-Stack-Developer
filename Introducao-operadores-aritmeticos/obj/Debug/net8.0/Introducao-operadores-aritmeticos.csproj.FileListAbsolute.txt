@@ -1,0 +1,15 @@
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\bin\Debug\net8.0\Introducao-operadores-aritmeticos.exe
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\bin\Debug\net8.0\Introducao-operadores-aritmeticos.deps.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\bin\Debug\net8.0\Introducao-operadores-aritmeticos.runtimeconfig.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\bin\Debug\net8.0\Introducao-operadores-aritmeticos.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\bin\Debug\net8.0\Introducao-operadores-aritmeticos.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\obj\Debug\net8.0\Introducao-operadores-aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\obj\Debug\net8.0\Introducao-operadores-aritmeticos.AssemblyInfoInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\obj\Debug\net8.0\Introducao-operadores-aritmeticos.AssemblyInfo.cs
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\obj\Debug\net8.0\Introducao-operadores-aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\obj\Debug\net8.0\Introducao-operadores-aritmeticos.sourcelink.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\obj\Debug\net8.0\Introducao-operadores-aritmeticos.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\obj\Debug\net8.0\refint\Introducao-operadores-aritmeticos.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\obj\Debug\net8.0\Introducao-operadores-aritmeticos.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\obj\Debug\net8.0\Introducao-operadores-aritmeticos.genruntimeconfig.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Introducao-operadores-aritmeticos\obj\Debug\net8.0\ref\Introducao-operadores-aritmeticos.dll
