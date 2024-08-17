@@ -1,0 +1,15 @@
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\bin\Debug\net8.0\introdução-estrutura-de-repetição.exe
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\bin\Debug\net8.0\introdução-estrutura-de-repetição.deps.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\bin\Debug\net8.0\introdução-estrutura-de-repetição.runtimeconfig.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\bin\Debug\net8.0\introdução-estrutura-de-repetição.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\bin\Debug\net8.0\introdução-estrutura-de-repetição.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\obj\Debug\net8.0\introdução-estrutura-de-repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\obj\Debug\net8.0\introdução-estrutura-de-repetição.AssemblyInfoInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\obj\Debug\net8.0\introdução-estrutura-de-repetição.AssemblyInfo.cs
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\obj\Debug\net8.0\introdução-estrutura-de-repetição.csproj.CoreCompileInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\obj\Debug\net8.0\introdução-estrutura-de-repetição.sourcelink.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\obj\Debug\net8.0\introdução-estrutura-de-repetição.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\obj\Debug\net8.0\refint\introdução-estrutura-de-repetição.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\obj\Debug\net8.0\introdução-estrutura-de-repetição.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\obj\Debug\net8.0\introdução-estrutura-de-repetição.genruntimeconfig.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\introdução-estrutura-de-repetição\obj\Debug\net8.0\ref\introdução-estrutura-de-repetição.dll
