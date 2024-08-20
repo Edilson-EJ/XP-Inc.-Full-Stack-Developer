@@ -1,0 +1,15 @@
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\obj\Debug\net8.0\Array-introducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\obj\Debug\net8.0\Array-introducao.AssemblyInfoInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\obj\Debug\net8.0\Array-introducao.AssemblyInfo.cs
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\obj\Debug\net8.0\Array-introducao.csproj.CoreCompileInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\obj\Debug\net8.0\Array-introducao.sourcelink.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\bin\Debug\net8.0\Array-introducao.exe
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\bin\Debug\net8.0\Array-introducao.deps.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\bin\Debug\net8.0\Array-introducao.runtimeconfig.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\bin\Debug\net8.0\Array-introducao.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\bin\Debug\net8.0\Array-introducao.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\obj\Debug\net8.0\Array-introducao.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\obj\Debug\net8.0\refint\Array-introducao.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\obj\Debug\net8.0\Array-introducao.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\obj\Debug\net8.0\Array-introducao.genruntimeconfig.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Array-introducao\obj\Debug\net8.0\ref\Array-introducao.dll
