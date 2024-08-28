@@ -1,0 +1,15 @@
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\obj\Debug\net8.0\propriedades-metodos-e-construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\obj\Debug\net8.0\propriedades-metodos-e-construtores.AssemblyInfoInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\obj\Debug\net8.0\propriedades-metodos-e-construtores.AssemblyInfo.cs
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\obj\Debug\net8.0\propriedades-metodos-e-construtores.csproj.CoreCompileInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\obj\Debug\net8.0\propriedades-metodos-e-construtores.sourcelink.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\bin\Debug\net8.0\propriedades-metodos-e-construtores.exe
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\bin\Debug\net8.0\propriedades-metodos-e-construtores.deps.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\bin\Debug\net8.0\propriedades-metodos-e-construtores.runtimeconfig.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\bin\Debug\net8.0\propriedades-metodos-e-construtores.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\bin\Debug\net8.0\propriedades-metodos-e-construtores.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\obj\Debug\net8.0\propriedades-metodos-e-construtores.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\obj\Debug\net8.0\refint\propriedades-metodos-e-construtores.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\obj\Debug\net8.0\propriedades-metodos-e-construtores.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\obj\Debug\net8.0\propriedades-metodos-e-construtores.genruntimeconfig.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\propriedades-metodos-e-construtores\obj\Debug\net8.0\ref\propriedades-metodos-e-construtores.dll
