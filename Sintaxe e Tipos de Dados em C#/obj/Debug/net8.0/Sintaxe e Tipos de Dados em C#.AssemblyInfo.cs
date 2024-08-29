@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sintaxe e Tipos de Dados em C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf47703434c1ba8aa0a8ab9ce222abe10b805e76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afaf9fa8c30a6d6239c9437764e9a2f52f9b2f3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sintaxe e Tipos de Dados em C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sintaxe e Tipos de Dados em C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
