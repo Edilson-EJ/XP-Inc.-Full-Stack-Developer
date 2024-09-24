@@ -1,0 +1,15 @@
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\bin\Debug\net8.0\Testes.exe
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\bin\Debug\net8.0\Testes.deps.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\bin\Debug\net8.0\Testes.runtimeconfig.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\bin\Debug\net8.0\Testes.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\bin\Debug\net8.0\Testes.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\obj\Debug\net8.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\obj\Debug\net8.0\Testes.AssemblyInfoInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\obj\Debug\net8.0\Testes.AssemblyInfo.cs
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\obj\Debug\net8.0\Testes.csproj.CoreCompileInputs.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\obj\Debug\net8.0\Testes.sourcelink.json
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\obj\Debug\net8.0\Testes.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\obj\Debug\net8.0\refint\Testes.dll
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\obj\Debug\net8.0\Testes.pdb
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\obj\Debug\net8.0\Testes.genruntimeconfig.cache
+C:\Users\edils\Desktop\Edilson\XP Inc. - Full Stack Developer\Testes\obj\Debug\net8.0\ref\Testes.dll
